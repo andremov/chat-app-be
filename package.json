@@ -1,0 +1,19 @@
+{
+  "name": "chat-app-be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andremov/chat-app-be.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andremov/chat-app-be/issues"
+  },
+  "homepage": "https://github.com/andremov/chat-app-be#readme"
+}
